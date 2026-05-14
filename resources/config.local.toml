@@ -11,4 +11,7 @@ name     = "data_pipeline_pro"
 user     = "user"
 password = "password"
 
+[keycloak]
+client_secret = "d9Tco448PJmDrSZNcXAjbP0OG339c39n"
+
 
